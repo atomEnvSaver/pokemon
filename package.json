@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "format": "prettier --write './data/pokemon_data.json'",
-    "validate": "node validate.js"
+    "validate": "node validate.js",
+    "jsdoc": "jsdoc -r ./lib"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   "homepage": "https://github.com/kotofurumiya/pokemon_data#readme",
   "devDependencies": {
     "jest": "^23.4.0",
+    "jsdoc": "^3.5.5",
     "prettier": "^1.13.7"
   }
 }

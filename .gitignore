@@ -43,7 +43,6 @@ Temporary Items
 .apdisk
 .idea
 *.iml
-out
 gen### Windows template
 Thumbs.db
 ehthumbs.db
