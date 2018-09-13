@@ -1,3 +1,6 @@
+#参考元
+  https://github.com/kotofurumiya/pokemon_data/issues
+
 # pokemon_data
 
 ポケットモンスターの全ポケモンの日本語データです。ご自由にお使いください。
