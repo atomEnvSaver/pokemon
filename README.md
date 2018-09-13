@@ -1,4 +1,4 @@
-#参考元
+# 参考元
   https://github.com/kotofurumiya/pokemon_data/issues
 
 # pokemon_data
